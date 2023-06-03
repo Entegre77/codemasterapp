@@ -1,0 +1,1 @@
+Write code to implement the different algorithms that I have selected. Integrate these algorithms into the overall architecture of the APP. Test the different components of the APP to ensure that they are working correctly.

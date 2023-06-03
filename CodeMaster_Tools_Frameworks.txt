@@ -1,0 +1,27 @@
+Analysis of Existing AI Development Tools and Frameworks for CodeMaster Development Ai APP
+
+- Scikit Learn:
+  - [insert analysis here]
+
+- TensorFlow:
+  - [insert analysis here]
+
+- Theano:
+  - [insert analysis here]
+
+- Caffe:
+  - [insert analysis here]
+
+- MxNet:
+  - [insert analysis here]
+
+- Keras:
+  - [insert analysis here]
+
+- PyTorch:
+  - [insert analysis here]
+
+- CNTK:
+  - [insert analysis here]
+
+- [insert most effective and efficient tools and frameworks here]

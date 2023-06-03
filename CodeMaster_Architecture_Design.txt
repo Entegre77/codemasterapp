@@ -1,0 +1,6 @@
+Overall Architecture Design for CodeMaster Development Ai APP
+
+- AI algorithms and features identified in 'CodeMaster_Development_Ai_APP.txt' file:
+  - [insert AI algorithms and features here]
+
+- [insert overall architecture design here]

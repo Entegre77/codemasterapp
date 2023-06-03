@@ -1,0 +1,69 @@
+Top 11 Frameworks in the AI World 
+- Tensor Flow 
+- Microsoft CNTK 
+- Caffe 
+- Theano 
+- Amazon machine learning 
+- Scikit-Learn 
+- PyTorch 
+- Torch 
+
+Top 12 Artificial Intelligence Tools & Frameworks 
+- Scikit Learn 
+- TensorFlow 
+- Theano 
+- Caffe 
+- MxNet 
+- Keras 
+- PyTorch 
+- CNTK 
+
+Top 10 AI Tools and Frameworks 
+- Scikit Learn 
+- TensorFlow 
+- Theano 
+- Caffe 
+- MxNet 
+- Keras 
+- PyTorch 
+- CNTK 
+
+7 popular tools and frameworks for developing AI applications 
+- TensorFlow 
+- PyTorch 
+- Keras 
+- Caffe 
+- Microsoft Cognitive Toolkit 
+- Theano 
+- Apache 
+
+The Best Artificial Intelligence Software Development Tools Of 2023 
+- TensorFlow 
+- Keras 
+- PyTorch 
+- Scikit-Learn 
+- XGBoost 
+
+Top Artificial Intelligence Tools & Frameworks in 2023 
+- PyTorch 
+
+AI Frameworks 
+- TensorFlow 
+- PyTorch 
+- Caffe 
+- Theano 
+- Keras 
+- MXNet 
+- ONNX 
+- OpenCV 
+- Apache MXNet 
+- Microsoft Cognitive Toolkit 
+
+7 Best AI Frameworks And Tools To Choose From 
+- Tensorflow 
+- Microsoft CNTK 
+- Keras 
+- Theano 
+- Sci-kit Learn 
+- Caffe 
+- Torch

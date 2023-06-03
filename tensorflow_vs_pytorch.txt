@@ -1,0 +1,16 @@
+PyTorch vs. TensorFlow: Key Differences to Know for Deep Learning - Built In
+PyTorch vs TensorFlow — spotting the difference - Towards Data Science
+TensorFlow vs PyTorch: Deep Learning Frameworks [2023] - KnowledgeHut
+PyTorch vs TensorFlow in 2023 - AssemblyAI
+Pytorch vs Tensorflow: A Head-to-Head Comparison - viso.ai
+PyTorch vs TensorFlow 2023-A Head-to-Head Comparison - ProjectPro
+Difference between PyTorch and TensorFlow - GeeksforGeeks
+PyTorch vs TensorFlow: Difference you need to know - Hackr.io
+PyTorch vs. TensorFlow: Key Differences to Know for Deep Learning - Built In
+PyTorch vs TensorFlow — spotting the difference - Towards Data Science
+TensorFlow vs PyTorch: Deep Learning Frameworks [2023] - KnowledgeHut
+PyTorch vs TensorFlow in 2023 - AssemblyAI
+Pytorch vs Tensorflow: A Head-to-Head Comparison - viso.ai
+PyTorch vs TensorFlow 2023-A Head-to-Head Comparison - ProjectPro
+Difference between PyTorch and TensorFlow - GeeksforGeeks
+PyTorch vs TensorFlow: Difference you need to know - Hackr.io

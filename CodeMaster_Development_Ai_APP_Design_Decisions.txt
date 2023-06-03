@@ -1,0 +1,6 @@
+CodeMaster Development Ai APP Design Decisions:
+
+- Decision 1
+- Decision 2
+- Decision 3
+

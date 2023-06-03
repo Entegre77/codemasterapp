@@ -1,0 +1,15 @@
+1. TensorFlow
+2. Keras
+3. PyTorch
+4. Scikit-Learn
+5. XGBoost
+6. Theano
+7. Caffe
+8. MxNet
+9. CNTK
+10. H20.AI
+11. Cortana
+12. IBM Watson
+13. Infosys Nia
+14. Deeplearning4j
+15. Google Assistant

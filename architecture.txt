@@ -1,0 +1,1 @@
+Determine the different components that will make up the APP. Determine how these components will interact with each other. Ensure that the architecture is designed with scalability and maintainability in mind.

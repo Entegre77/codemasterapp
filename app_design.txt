@@ -1,0 +1,8 @@
+Overall Architecture:
+- AI algorithms and features powered by TensorFlow
+- User interface designed with simplicity and efficiency in mind
+
+User Interface:
+- Clean and modern design
+- Intuitive navigation and controls
+- Easy access to all app features and functions
